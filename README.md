@@ -20,5 +20,6 @@ After I pushed 3 commits into ThirdBranch, I switched into the master branch (vi
 ```sh
 $ git cherry-pick f78ae5b
 ```
-Then I used $ git push to add it to the master branch.
+Then I used $ git push to add it to the master branch. <br>
+At last I pulled a merge request from ThridBranch onto master branch.
 
